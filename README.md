@@ -22,8 +22,3 @@ Flash Chat is an internet based messaging app similar to WhatsApp, the popular m
 * How to create Segues for navigation.
 * How to make custom .xib files to modify native design components.
 * Using Grand Central Dispatch to queue asynchronous tasks.
-
-
->This is a companion project to The App Brewery's Complete App Developement Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](Documentation/readme-end-banner.png)
