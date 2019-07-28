@@ -45,7 +45,7 @@ class RegisterViewController: UIViewController {
                 //Success
                 print("Registration Successful!")
                 
-                self.performSelector(inBackground: "goToChat", with: self)
+                self.performSegue(withIdentifier: "goToChat", sender: self)
             }
         }
 
